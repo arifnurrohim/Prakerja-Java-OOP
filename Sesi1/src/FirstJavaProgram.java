@@ -66,7 +66,7 @@ public class FirstJavaProgram {
 			System.out.println("number2 < number1");
 		}
 		
-		/* Switch */
+		/* Switch Operation */
 		
 		int menu = 5;
 		switch (menu) {
